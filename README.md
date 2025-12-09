@@ -298,7 +298,7 @@ More details are available in [`troubleshooting.md`](troubleshooting.md).
 
 ## 👨‍💻 12. Author
 
-**Masud**  
+**Shahriar Alom Masud**  
 B.Sc. in IoT & Robotics Engineering
 University of Frontier Technology, Bangladesh
 Passionate about **Raspberry Pi, IoT, Robotics, and AI**
