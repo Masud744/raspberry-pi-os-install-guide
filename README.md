@@ -299,7 +299,8 @@ More details are available in [`troubleshooting.md`](troubleshooting.md).
 ## 👨‍💻 12. Author
 
 **Masud**  
-B.Sc. in IoT & Robotics Engineering (Bangladesh)  
-Passionate about **Raspberry Pi, IoT, Robotics, and AI** 🚀
+B.Sc. in IoT & Robotics Engineering
+University of Frontier Technology, Bangladesh
+Passionate about **Raspberry Pi, IoT, Robotics, and AI**
 
 > Feel free to open an Issue or Pull Request if you find a bug or want to improve this guide.
