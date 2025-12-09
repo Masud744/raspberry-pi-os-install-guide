@@ -1,7 +1,7 @@
 
-# 🍓 Raspberry Pi OS Installation Guide (Raspberry Pi 3 Model B)
+# 🍓 Raspberry Pi OS Installation Guide (Raspberry Pi)
 
-A complete, beginner‑friendly guide to correctly install **Raspberry Pi OS** on a **Raspberry Pi 3 Model B**,  
+A complete, beginner‑friendly guide to correctly install **Raspberry Pi OS** on a **Raspberry Pi**,  
 including flashing, first boot, **remote access (SSH, VNC, RDP)** and common troubleshooting tips.
 
 ---
@@ -9,7 +9,7 @@ including flashing, first boot, **remote access (SSH, VNC, RDP)** and common tro
 ## ✅ 1. Requirements
 
 ### 🧰 Hardware
-- Raspberry Pi **3 Model B**
+- Raspberry Pi 
 - microSD card **(16–32 GB, Class 10 recommended)**
 - Good quality **SD card reader**
 - **5V 2.5A** power adapter for Pi
@@ -79,11 +79,11 @@ overlays/
 
 ## 🚀 4. First Boot on Raspberry Pi
 
-1. Insert the flashed microSD card into the **Raspberry Pi 3B**.
+1. Insert the flashed microSD card into the **Raspberry Pi**.
 2. Connect monitor (HDMI), keyboard and mouse (optional, if not doing headless).
 3. Connect the power adapter to boot.
 
-### 🔴🟢 LED Indicator Guide (Pi 3B)
+### 🔴🟢 LED Indicator Guide (Pi)
 
 | LED  | State            | Meaning                              |
 |------|------------------|--------------------------------------|
