@@ -1,0 +1,11 @@
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Python / build
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
